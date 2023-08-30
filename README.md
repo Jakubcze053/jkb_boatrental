@@ -1,4 +1,4 @@
-## :motorboat:Boat Rental:motorboat:
+## ⚓Boat Rental⚓
 
 # **Features:**
 - Easy config edit

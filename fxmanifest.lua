@@ -7,7 +7,7 @@ description 'Boat rental script'
 version '1.9.4'
 
 client_scripts {
-    'client/*.lua',
+    'client.lua',
     'config.lua',
 }
 
@@ -17,4 +17,4 @@ shared_scripts {
     'config.lua'
 }
 
-server_script 'server/*.lua'
+server_script 'server.lua'
